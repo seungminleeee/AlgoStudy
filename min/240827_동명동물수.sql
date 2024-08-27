@@ -1,5 +1,4 @@
 -- lv2. 동명 동물 수 찾기
--- 이름 수 1 초과인 동물 찾기
 
 SELECT NAME, COUNT(*)
 FROM ANIMAL_INS
