@@ -1,4 +1,4 @@
--- 조건별로 분류하여 주문상태 출력하기
+-- lv.3 조건별로 분류하여 주문상태 출력하기
 
 SELECT ORDER_ID, PRODUCT_ID,
 DATE_FORMAT(OUT_DATE, '%Y-%m-%d') AS OUT_DATE, 
