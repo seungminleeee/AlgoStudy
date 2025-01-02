@@ -14,6 +14,7 @@
     <td>언어</td>
     <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
     </td>
   </tr>
 </table>
@@ -36,9 +37,9 @@
     <td align="center"><a href="https://github.com/hozzun"><b>Hojun Kim</b></a></td>
   </tr>
   <tr> 
+    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
   </tr> 
 </table>
@@ -47,11 +48,11 @@
 
 ## 📌 스터디 진행
 -  알고리즘 구글 시트 링크
+  <br>
+  [🎈2024](https://docs.google.com/spreadsheets/d/1nCBBlYmu8fzjA-s4oX49fCqEbGSGlcyYD9N--F9_12A/edit?usp=sharing)
+  <br>
+  [✨2025](https://docs.google.com/spreadsheets/d/1fKGbYLg3WDNoguQSA-7uIYJ5dn4B5r7rdCaWRo0Emyk/edit?gid=761951983#gid=761951983)
 
-https://docs.google.com/spreadsheets/d/1sjzAbrGz6Noop3LEM0gebA53bDO2vQ0Qt2pdRPP7ygY/edit?pli=1#gid=0
-https://docs.google.com/spreadsheets/d/1nCBBlYmu8fzjA-s4oX49fCqEbGSGlcyYD9N--F9_12A/edit?usp=sharing
-https://docs.google.com/spreadsheets/d/1fKGbYLg3WDNoguQSA-7uIYJ5dn4B5r7rdCaWRo0Emyk/edit?gid=761951983#gid=761951983
-<br/>
 
 
 ### ✨ 플랫폼
