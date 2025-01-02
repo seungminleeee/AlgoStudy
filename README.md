@@ -57,14 +57,12 @@
 <br/>
 
 ## 📌 스터디 진행
--  알고리즘 구글 시트 링크
-  <br>
-  [🎈2024](https://docs.google.com/spreadsheets/d/1nCBBlYmu8fzjA-s4oX49fCqEbGSGlcyYD9N--F9_12A/edit?usp=sharing)
-  <br>
-  [✨2025](https://docs.google.com/spreadsheets/d/1fKGbYLg3WDNoguQSA-7uIYJ5dn4B5r7rdCaWRo0Emyk/edit?gid=761951983#gid=761951983)
+**알고리즘 구글 시트 링크**
+-  [🎈2024](https://docs.google.com/spreadsheets/d/1nCBBlYmu8fzjA-s4oX49fCqEbGSGlcyYD9N--F9_12A/edit?usp=sharing)
+-  [✨2025](https://docs.google.com/spreadsheets/d/1fKGbYLg3WDNoguQSA-7uIYJ5dn4B5r7rdCaWRo0Emyk/edit?gid=761951983#gid=761951983)
 
 
-
+<br/>
 ### ✨ 플랫폼
 
 | 플랫폼                   |  태그   |
