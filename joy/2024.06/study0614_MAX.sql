@@ -1,0 +1,3 @@
+-- //엥 에반데 너무 쉬워;;;;;;; 
+
+SELECT MAX(PRICE) AS MAX_PRICE FROM PRODUCT

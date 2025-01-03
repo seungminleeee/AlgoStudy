@@ -1,0 +1,3 @@
+-- 최댓값 구하기 개쉽넹.... ㅠ
+SELECT MAX(DATETIME) AS 시간 FROM ANIMAL_INS
+ORDER BY 시간 DESC;
