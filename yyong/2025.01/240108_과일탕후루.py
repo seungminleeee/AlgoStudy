@@ -1,3 +1,7 @@
+# 조건 : 과일 두종류 넘어가면 안됨
+# 과일을 직접 꼬지에 꽂는다고 생각하면서 풀이
+# right : 이제 꽂을 과일, left : 과일 두종류 넘어가면 뺴낼 과일
+
 N = int(input())
 fruits = list(map(int, input().split()))
 
