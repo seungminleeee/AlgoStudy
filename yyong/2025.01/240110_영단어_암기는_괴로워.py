@@ -2,6 +2,7 @@
 # 1. 빈도수
 # 2. 단어의 길이
 # 3. 사전순
+# 이 순서대로 튜플 만들어서 정렬
 
 from collections import defaultdict
 
