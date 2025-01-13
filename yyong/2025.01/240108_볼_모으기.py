@@ -30,7 +30,6 @@ left_R, left_B = ball_count(balls)
 balls.reverse()
 right_R, right_B = ball_count(balls)
 
-# print(left_R, left_B, right_B, right_R)
 print(min(left_R, left_B, right_B, right_R))
 
 
