@@ -1,3 +1,5 @@
+# 그리디로 풀리는 문제인데 이분탐색인거 먼저 봐버려서 생각 없이 이분탐색으로 풀어버림...
+
 # 가로등의 높이만큼 주위를 비출 수 있음
 # 최소 예산으로 굴다리의 모든 길을 밝힐 수 있는 높이 구하기
 
@@ -19,11 +21,13 @@ def light(h):
     for spot in spots:
         start, end = spot - h, spot + h
 
+        # 빈구간 생기면 조건 만족 x
         if start > cur_end:
             return False
         else:
             cur_end = end
 
+    # 가로등 끝까지 비췄으면 return True
     if cur_end >= N:
         return True
     else:
