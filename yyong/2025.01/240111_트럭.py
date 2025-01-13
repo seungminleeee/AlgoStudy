@@ -1,3 +1,6 @@
+# 1학기때 프로그래머스에서 풀었던 유형인듯..!
+# 다리를 덱으로 구현 ( popleft : 다리 빠져나옴, append : 다리에 트럭 올리기 또는 빈 도로 올리기 )
+
 from collections import deque
 
 n, w, L = map(int, input().split())  # 트럭 수, 다리 길이, 최대 하중
