@@ -17,10 +17,12 @@ pass_1 = 0
 
 for s in S:
 
+    # 현재 0일 때 : 반절만큼 입력 했으면 나머지는 무시
     if s == '0' and append_0 < char['0'] // 2:
         result += s
         append_0 += 1
 
+    # 현재 1일 때 : 반절만큼 무시하고 그 이상일땐 append
     if s == '1' and pass_1 >= char['1'] // 2:
         result += s
     elif s == '1' and pass_1 < char['1'] // 2:
