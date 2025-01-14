@@ -3,6 +3,9 @@ from collections import Counter
 input = sys.stdin.read
 data = input().splitlines()
 
+# print(data)
+# ['7 4', 'apple', 'ant', 'sand', 'apple', 'append', 'sand', 'sand']
+
 N, M = map(int, data[0].split())
 words = data[1:]
 
