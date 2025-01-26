@@ -29,4 +29,4 @@ for _ in range(N):
 
 result += len(stack)
 
-print(result)
+print(result) 
