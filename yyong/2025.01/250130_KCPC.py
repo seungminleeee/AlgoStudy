@@ -35,3 +35,4 @@ for _ in range(int(input())):
         if log[3] == t:
             print(idx + 1)
             break
+        
