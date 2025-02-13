@@ -21,7 +21,7 @@ dir_idx = 0
 for i in range(2, k + 1):
     nx, ny = x + directions[dir_idx][0], y + directions[dir_idx][1]
     # 벽 만날 때까지 계속 찍기
-    while not (0 <= nx < c and 0 <= ny < r) or graph[nx][ny] != 0:
+    while not (0 <= nx < c and 0 <= ny < r) or graph[ny][nx] != 0:
         dir_idx = (dir_idx + 1) % 4
         nx, ny = x + directions[dir_idx][0], y + directions[dir_idx][1]
 
