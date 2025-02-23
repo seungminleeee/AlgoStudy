@@ -53,6 +53,9 @@ for _ in range(m):
         heapq.heappush(min_heap, (l, p))
         heapq.heappush(max_heap, (-l, -p))
         problems[p] = l
+        # 기존 삭제된 문제인데 다시 추가될 경우
+        if p in solved:
+            solved.remove(p)
 
     # 문제 해결 (solved)
     else:
