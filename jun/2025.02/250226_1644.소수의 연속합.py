@@ -27,7 +27,7 @@ while left < len(prime_numbers):
         cur_sum -= prime_numbers[left]
         left += 1
     else:
-        right += 1 
+        right += 1
         if right < len(prime_numbers):
             cur_sum += prime_numbers[right]
         else:
