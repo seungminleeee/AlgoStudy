@@ -25,10 +25,10 @@
 
 <table>
  <tr>
-    <td align="center"><a href="https://github.com/undertheear"><img src="https://avatars.githubusercontent.com/seungminleeee" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/seungminleeee"><img src="https://avatars.githubusercontent.com/seungminleeee" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/JinAyeong"><img src="https://avatars.githubusercontent.com/JinAyeong" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/chajoyhoi"><img src="https://avatars.githubusercontent.com/chajoyhoi" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/ssafy11"><img src="https://avatars.githubusercontent.com/hozzun" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/hozzun"><img src="https://avatars.githubusercontent.com/hozzun" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/seungminleeee"><b>Seungmin Lee</b></a></td>
@@ -50,6 +50,7 @@
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
     </td>
   </tr> 
 </table>
