@@ -7,4 +7,5 @@ for i in pipe:
     if i > tape_last:
         tape += 1
         tape_last = i + L - 0.5
+
 print(tape)
