@@ -4,6 +4,10 @@ for tc in range(1, T + 1):
     arr = [list(map(int, input().split())) for _ in range(2)]
     dp = [[0] * n for _ in range(2)]
     
+    if n == 1:
+        print(max(arr[0][0], arr[1][0]))
+        continue
+    
     dp[0][0] = arr[0][0]
     dp[1][0] = arr[1][0]
 
