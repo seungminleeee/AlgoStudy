@@ -1,3 +1,4 @@
+
 N = int(input())
 arr = list(map(int, input().split()))
 dp = [float('inf')] * N
