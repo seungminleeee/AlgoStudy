@@ -3,7 +3,6 @@
 """
 from collections import deque
 
-
 class Solution:
     def islandsAndTreasure(self, grid: List[List[int]]) -> None:
         n, m = len(grid), len(grid[0])
