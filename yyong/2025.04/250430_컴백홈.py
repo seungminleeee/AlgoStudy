@@ -27,7 +27,6 @@ def move(r, c, k):
             move(nr, nc, k+1)
             visited[nr][nc] = False
 
-
 move(R-1, 0, 1)
 
 print(result)
