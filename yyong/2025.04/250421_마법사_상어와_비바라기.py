@@ -31,7 +31,6 @@ def move(d, s):
                 clouds.append((i, j))
                 mp[i][j] -= 2
 
-
 for _ in range(M):
     d, s = map(int, input().split())
     move(d-1, s)
