@@ -1,5 +1,4 @@
-
-# 🍟 알고리즘 스터디 🍟
+# 🧑‍💻 알고리즘 스터디 🧐
 
 <table>
   <tr>
@@ -15,6 +14,7 @@
     <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
     </td>
   </tr>
 </table>
@@ -43,6 +43,7 @@
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -58,35 +59,40 @@
 <br/>
 
 ## 📌 스터디 진행
+
 **알고리즘 구글 시트 링크**
--  [🎈2024](https://docs.google.com/spreadsheets/d/1nCBBlYmu8fzjA-s4oX49fCqEbGSGlcyYD9N--F9_12A/edit?usp=sharing)
--  [✨2025](https://docs.google.com/spreadsheets/d/1fKGbYLg3WDNoguQSA-7uIYJ5dn4B5r7rdCaWRo0Emyk/edit?gid=761951983#gid=761951983)
+
+- [🎈2024](https://docs.google.com/spreadsheets/d/1nCBBlYmu8fzjA-s4oX49fCqEbGSGlcyYD9N--F9_12A/edit?usp=sharing)
+- [✨2025](https://docs.google.com/spreadsheets/d/1fKGbYLg3WDNoguQSA-7uIYJ5dn4B5r7rdCaWRo0Emyk/edit?gid=761951983#gid=761951983)
 
 <br/>
 
 ### 🥁 커밋컨벤션
+
 [플랫폼] 문제이름 / 난이도
+
 ```
 git commit -m "[BOJ] Hello World / 브론즈5"
 ```
 
 <br/>
 
-| 플랫폼                   |  태그   |
-|:----------------------|:-----|
-| 백준                    |  BOJ  |
-| 프로그래머스            | PGS |
+| 플랫폼       | 태그 |
+| :----------- | :--- |
+| 백준         | BOJ  |
+| 프로그래머스 | PGS  |
+| 니트코드     | NTC  |
 
 <br/>
 
 ## ✅ 사용 방법
+
 1. 본인 이름의 폴더를 생성한다.
 2. 생성된 폴더에 월별 폴더를 생성한다.
 3. 알고리즘 풀이 후 파일을 업로드한다.
 
 <br/>
 
-## 💫 백준 추천 문제집 
+## 💫 백준 추천 문제집
+
 https://www.acmicpc.net/workbook/view/8708
-
-
