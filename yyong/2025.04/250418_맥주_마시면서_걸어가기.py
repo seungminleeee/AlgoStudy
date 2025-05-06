@@ -1,5 +1,5 @@
 '''
-50미터 가기 전에 한 병 마셔야 한다.
+50미터 가기 전에 한 병 마시기
 '''
 
 from collections import deque
