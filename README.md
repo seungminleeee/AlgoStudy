@@ -82,6 +82,7 @@ git commit -m "[BOJ] Hello World / 브론즈5"
 | 백준         | BOJ  |
 | 프로그래머스 | PGS  |
 | 니트코드     | NTC  |
+| solvesql     | SVL  |
 
 <br/>
 
